@@ -101,4 +101,3 @@ outputs/{task_folder}/session_*/
     - Create a new boundary where you will be placing the oculus and recenter the origin by holding the Meta button (you can follow instructions on Meta for this, or see above note "Common bugs")
     - Run `ur10e_tele/collect_URrobot_trajectory_test.py` to begin teleop script!
 
-## Walk through Video: https://drive.google.com/file/d/1vcsk8vV80lrCj4pOraVajh4vVGRGTjL3/view?usp=sharing 
